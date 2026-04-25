@@ -7,3 +7,4 @@ for i in range(1, n + 1):
 print("Factorial of", n, "is:", fact)
 #This is the basic factorial code file...
 khcnbnkjbg
+nzlmalzmlazl ;,;l ml  kjm
